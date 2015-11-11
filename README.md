@@ -1,0 +1,1 @@
+Uses minimal config from [here](http://www.narga.net/optimizing-apachephpmysql-low-memory-server/), and [here](http://www.kalzumeus.com/2010/06/19/running-apache-on-a-memory-constrained-vps/).
